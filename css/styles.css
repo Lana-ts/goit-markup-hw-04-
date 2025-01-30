@@ -472,10 +472,6 @@ color: #434455;
 
 }
 
-.footer-logo:hover,
- .footer-logo:focus {
-    background-color: #31d0aa;
-}
 
 .footer-text {
     max-width: 264px;
